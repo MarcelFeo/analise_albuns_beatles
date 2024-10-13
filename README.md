@@ -54,4 +54,17 @@ Fazendo uma análise para cada compositor separado temos que John Lennon foi o c
   
 </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+
+<div align="center">
+ <b>Gostaria de expressar minha sincera gratidão a todos que dedicaram seu tempo para conhecer e explorar este projeto 😊</b> 
+    <br/>
+    <br/>
+ <img src="https://github.com/user-attachments/assets/677f1eaf-5963-4c6f-9fe3-6b33f1277d01" alt="Imagem do Projeto" width="250"/>
+   
+</div>
