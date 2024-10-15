@@ -6,7 +6,7 @@
 
 ## 📝 Sobre o projeto:
 
-Este projeto visa analisar os sentimentos das músicas dos Beatles em ordem cronológica, utilizando técnicas de processamento de linguagem natural (NLP) com bibliotecas Python como pandas, numpy e matplotlib. As letras foram limpas, removendo caracteres especiais e palavras irrelevantes, e em seguida, uma análise de sentimentos foi aplicada para categorizar cada música como positiva, negativa ou neutra. O projeto compara as contribuições de compositores como John Lennon e Paul McCartney, quantificando suas músicas positivas e negativas. Gráficos de barras horizontais visualizam essas comparações, destacando a evolução do sentimento nas letras ao longo do tempo. Músicas covers foram excluídas, focando apenas nas composições originais.
+Este projeto visa analisar os sentimentos das músicas dos Beatles em ordem cronológica, utilizando técnicas de processamento de linguagem natural (NLP) com bibliotecas Python como pandas, numpy e matplotlib. As letras foram limpas, removendo caracteres especiais e palavras irrelevantes, e em seguida, uma análise de sentimentos foi aplicada para categorizar cada música como positiva, negativa ou neutra. O projeto compara as contribuições de compositores como John Lennon e Paul McCartney, quantificando suas músicas positivas e negativas. Gráficos de barras horizontais visualizam essas comparações, destacando a evolução do sentimento nas letras ao longo do tempo. Músicas covers foram excluídas, focando apenas nas composições originais. A base de dados utilizada no projeto: https://github.com/moizmb/beatles-lyrics/blob/master/clean-lyrics.csv.
 
 ## 🛠️ Tecnologias:
 
